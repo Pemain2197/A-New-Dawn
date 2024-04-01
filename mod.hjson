@@ -1,10 +1,11 @@
-name: "and",
-displayName: "A New Dawn",
-author: "Pemain2197",
-description: "",
-subtitle: "Demo of Chaos Itself",
-version: "0.1",
-main: "betamindy.BetaMindy",
-minGameVersion: "146",
-dependencies: [],
+name: "and"
+displayName: "A New Dawn"
+author: "Pemain2197"
+description: "A custom mod music from other game. Check on Repo for more information"
+subtitle: "Bred For War Edition"
+version: "0.1"
+main: "and.A-New-Dawn"
+minGameVersion: "146"
+dependencies: []
 hidden: true
+repo: "Pemain2197/A-New-Dawn"
