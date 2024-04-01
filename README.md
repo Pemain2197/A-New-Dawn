@@ -3,7 +3,6 @@ This mod will play "A  New  Dawn: Bred of War Edition" soundtracks, a.k.a "Mechw
 
 This mod will add another soundtrack in newer update
 # Soundtrack
-Current:
 1. menu.ogg: Mechwarrior
 2. launch.ogg: Nav Gamma
 3. game1.ogg: Pyre Light(Cover)
