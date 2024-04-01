@@ -1,0 +1,10 @@
+name: "and",
+displayName: "A New Dawn",
+author: "Pemain2197",
+description: "",
+subtitle: "Demo of Chaos Itself",
+version: "0.1",
+main: "betamindy.BetaMindy",
+minGameVersion: "146",
+dependencies: [],
+hidden: true
